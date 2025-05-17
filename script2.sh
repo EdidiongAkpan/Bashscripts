@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#This a BashScript that will prompt a user to input a file name created and it will display what the file type is based on the extension the user named the file while creating.
+#This a BashScript that will prompt a user to input a file name created and it will display the file type  based on the extension the user named the file while creating.
 
 read -p "Enter the filename:" filename
 
